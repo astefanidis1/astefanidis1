@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astefanidis1" alt="astefanidis1" /></a> </p>
 
-- 🔭 I’m currently working on **LipReadify**
-
-- 🤝 I’m looking for help with **MyCars**
-
 - 💬 Ask me about **Data analytics, cars, music, video games**
 
 - 📫 How to reach me **astefanidis1@gmail.com**
